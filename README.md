@@ -89,12 +89,12 @@ define('F21_API_REF', true);
 If you want to you can always run the composer statement.
 
 ```cmd
-composer update
+composer require formula21/yourls-qr-thumbnail-plugin-with-preview-redirect
 ```
 OR,
 
 ```cmd
-php composer.phar update
+php composer.phar require formula21/yourls-qr-thumbnail-plugin-with-preview-redirect
 ```
 
 For more information about composer, visit [Composer Documentation](https://getcomposer.org/doc/).
