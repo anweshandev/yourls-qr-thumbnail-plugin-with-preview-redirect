@@ -1,0 +1,17 @@
+{
+	"name" : "formula21/yourls-qr-thumbnail-plugin-with-preview-redirect",
+	"description" : "A YOURLS Plugin, which integrates a QR Plugin, a Thumbnail Plugin and combines both to make a preview page, which can be seen both before redirect or forced with the preview character.",
+	"authors" : [
+		{
+			"name" : "Anweshan Roy Chowdhury",
+			"email" : "anweshanrc15@gmail.com",
+			"homepage" : "https://formula21.github.io",
+			"role" : "Developer"
+		}
+	],
+	"license" : "MIT",
+	"require": {
+      "guzzlehttp/guzzle": "^7.0"
+	},
+	"autoload" : {}
+}
